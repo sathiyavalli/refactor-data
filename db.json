@@ -1,6 +1,10 @@
-[{
-"name":"XXX BAnk",
-"price":"25000 euros",
-"month":12,
-"intrest rate":"4.5%"
-}]
+{
+  "datas":[
+  {
+  "name":"XXX BAnk",
+  "price":"25000 euros",
+  "month":12,
+  "intrest rate":"4.5%"
+}
+]
+}
